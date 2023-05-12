@@ -6,7 +6,7 @@ export const Container = styled.div`
   width: 300px;
   border-radius: 5px;
   background-color: ${props => props.theme.colors.white};
-  box-shadow: ${props => props.theme.shadows.shadow}; 
+  box-shadow: ${props => props.theme.shadows.shadow};
   h1 {
     margin-top: 0;
     margin-bottom: 10px;

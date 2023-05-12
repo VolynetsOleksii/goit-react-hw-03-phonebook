@@ -4,7 +4,7 @@ export const FormStyle = styled.form`
   max-width: 200px;
   border: ${props => props.theme.colors.lightBlue};
   border-radius: 5px;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 `;
 
 export const LabelForm = styled.label`
